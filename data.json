@@ -1,0 +1,74 @@
+{
+    "trashItems": [
+        { "name": "Apple Core", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/apple-core.png" },
+        { "name": "Plastic Bottle", "type": "recyclable", "difficulty": "hard", "imgPath": "images/plastic-bottle.png" },
+        { "name": "Glass Jar", "type": "recyclable", "difficulty": "easy", "imgPath": "images/glass-jar.png" },
+        { "name": "Banana Peel", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/banana-peel.png" },
+        { "name": "Aluminum Can", "type": "recyclable", "difficulty": "hard", "imgPath": "images/aluminum-can.png" },
+        { "name": "Paper Towel", "type": "non-recyclable", "difficulty": "easy", "imgPath": "images/paper-towel.png" },
+        { "name": "Eggshells", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/egg-shell.png" },
+        { "name": "Cardboard Box", "type": "recyclable", "difficulty": "easy", "imgPath": "images/cardboard-box.png" },
+        { "name": "Food Scraps", "type": "biodegradable", "difficulty": "hard", "imgPath": "images/food-scraps.png" },
+        { "name": "Plastic Fork", "type": "non-recyclable", "difficulty": "easy", "imgPath": "images/plastic-fork.png" },
+        { "name": "Cereal Box", "type": "recyclable", "difficulty": "hard", "imgPath": "images/cereal-box.png" },
+        { "name": "Coffee Grounds", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/coffee-grounds.png" },
+        { "name": "Magazines", "type": "recyclable", "difficulty": "hard", "imgPath": "images/magazines.png" },
+        { "name": "Used Paper Plates", "type": "non-recyclable", "difficulty": "easy", "imgPath": "images/used-paper.png" },
+        { "name": "Potato Peel", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/potato-peels.png" },
+        { "name": "Glass Bottle", "type": "recyclable", "difficulty": "easy", "imgPath": "images/glass-bottles.png" },
+        { "name": "Old Shoes", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/old-shoes.png" },
+        { "name": "Plastic Wrap", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/plastic-wrap.png" },
+        { "name": "Orange Peel", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/orange-peel.png" },
+        { "name": "Tin Can", "type": "recyclable", "difficulty": "easy", "imgPath": "images/tin-can.png" },
+        { "name": "Yogurt Cup", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/yougurt-cup.png" },
+        { "name": "Leafy Greens", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/leafy-greens.png" },
+        { "name": "Plastic Bag", "type": "recyclable", "difficulty": "hard", "imgPath": "images/plastic-bag.png" },
+        { "name": "Shredded Paper", "type": "recyclable", "difficulty": "hard", "imgPath": "images/shredded-papers.png" },
+        { "name": "Peanut Shells", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/peanut-shells.png" },
+        { "name": "Soda Can", "type": "recyclable", "difficulty": "easy", "imgPath": "images/soda-can.png" },
+        { "name": "Broken Glass", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/broken-glass.png" },
+        { "name": "Cardboard Egg Carton", "type": "recyclable", "difficulty": "easy", "imgPath": "images/cardboard-egg.png" },
+        { "name": "Used Plastic Bottles", "type": "recyclable", "difficulty": "easy", "imgPath": "images/used-plastic-bottles.png" },
+        { "name": "Chicken Bones", "type": "biodegradable", "difficulty": "hard", "imgPath": "images/chicken-bones.png" },
+        { "name": "Straws", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/plastic-straws.png" },
+        { "name": "Moldy Bread", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/moldy-bread.png" },
+        { "name": "Old Carpet", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/old-carpet.png" },
+        { "name": "Avocado Pit", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/avocado-pit.png" },
+        { "name": "Plastic Toy", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/plastic-toys.png" },
+        { "name": "Old Newspaper", "type": "recyclable", "difficulty": "easy", "imgPath": "images/old-newspaper.png" },
+        { "name": "Fish Scraps", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/fish-scraps.png" },
+        { "name": "Disposable Camera", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/disposable-camera.png" },
+        { "name": "Pinecones", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/pinecones.png" },
+        { "name": "Wrapping Paper", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/wrapping-paper.png" },
+        { "name": "Empty Pringles Can", "type": "recyclable", "difficulty": "easy", "imgPath": "images/empty-pringles.png" },
+        { "name": "Dirt", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/dirt.png" },
+        { "name": "Toilet Paper Roll", "type": "recyclable", "difficulty": "easy", "imgPath": "images/paper-towel.png" },
+        { "name": "Used Light Bulb", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/used-bulb.png" },
+        { "name": "Pasta", "type": "biodegradable", "difficulty": "hard", "imgPath": "images/pasta.png" },
+        { "name": "Old Electronics", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/old-electronics.png" },
+        { "name": "Plastic Wrapper", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/plastic-bag.png" },
+        { "name": "Wood Chips", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/wood-chips.png" },
+        { "name": "Plastic Detergent Bottle", "type": "recyclable", "difficulty": "hard", "imgPath": "images/plastic-detergent-bottles.png" },
+        { "name": "Used Batteries", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/used-batteries.png" },
+        { "name": "Vegetable Trimmings", "type": "biodegradable", "difficulty": "easy", "imgPath": "images/vegetables-trimming.png" },
+        { "name": "Hangers", "type": "non-recyclable", "difficulty": "hard", "imgPath": "images/hangers.png" }
+    ],
+
+    "trashCans": [
+        {
+            "name": "Recyclable",
+            "class": "recyclable",
+            "imgPath": "images/recyclable.png"
+        },
+        {
+            "name": "Biodegradable",
+            "class": "biodegradable",
+            "imgPath": "images/biodegradable.png"
+        },
+        {
+            "name": "Non-Recyclable",
+            "class": "non-recyclable",
+            "imgPath": "images/non-recyclable.png"
+        }
+    ]
+}
